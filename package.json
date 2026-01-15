@@ -46,7 +46,9 @@
     "sleep",
     "abort-signal",
     "bun",
-    "deno"
+    "deno",
+    "nodejs",
+    "zero-dependencies"
   ],
   "license": "MIT"
 }
